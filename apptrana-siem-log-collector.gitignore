@@ -1,0 +1,25 @@
+# Auth Token & Config
+Indusface.ini
+
+# Log Files
+*.log
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
